@@ -1,4 +1,4 @@
-[![Awesomepavi's Github stats](https://github-readme-stats.vercel.app/api?username=awesomePavi&show_icons=true&count_private=true)]()
+[![Awesomepavi's Github stats](https://github-readme-stats.vercel.app/api?username=awesomePavi&show_icons=true&count_private=true)](https://github.com/awesomePavi)
 
 <!--
 **awesomePavi/awesomePavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
